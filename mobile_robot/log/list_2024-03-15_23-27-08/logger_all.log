@@ -1,0 +1,19 @@
+[4.183s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'list', '-p', '--base-paths', '/home/ibrahim/ros2_ws/src/mobile_robot']
+[4.183s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='list', build_base='build', ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['/home/ibrahim/ros2_ws/src/mobile_robot'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], topological_order=False, names_only=False, paths_only=True, topological_graph=False, topological_graph_dot=False, topological_graph_density=False, topological_graph_legend=False, topological_graph_dot_cluster=False, topological_graph_dot_include_skipped=False, verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x7b20411042e0>, verb_extension=<colcon_package_information.verb.list.ListVerb object at 0x7b2041104190>, main=<bound method ListVerb.main of <colcon_package_information.verb.list.ListVerb object at 0x7b2041104190>>)
+[4.361s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[4.361s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[4.361s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[4.361s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[4.361s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[4.361s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/ibrahim/ros2_ws/src/mobile_robot'
+[4.362s] Level 1:colcon.colcon_core.package_identification:_identify(/home/ibrahim/ros2_ws/src/mobile_robot) by extensions ['ignore', 'ignore_ament_install']
+[4.362s] Level 1:colcon.colcon_core.package_identification:_identify(/home/ibrahim/ros2_ws/src/mobile_robot) by extension 'ignore'
+[4.362s] Level 1:colcon.colcon_core.package_identification:_identify(/home/ibrahim/ros2_ws/src/mobile_robot) by extension 'ignore_ament_install'
+[4.362s] Level 1:colcon.colcon_core.package_identification:_identify(/home/ibrahim/ros2_ws/src/mobile_robot) by extensions ['colcon_pkg']
+[4.362s] Level 1:colcon.colcon_core.package_identification:_identify(/home/ibrahim/ros2_ws/src/mobile_robot) by extension 'colcon_pkg'
+[4.362s] Level 1:colcon.colcon_core.package_identification:_identify(/home/ibrahim/ros2_ws/src/mobile_robot) by extensions ['colcon_meta']
+[4.362s] Level 1:colcon.colcon_core.package_identification:_identify(/home/ibrahim/ros2_ws/src/mobile_robot) by extension 'colcon_meta'
+[4.362s] Level 1:colcon.colcon_core.package_identification:_identify(/home/ibrahim/ros2_ws/src/mobile_robot) by extensions ['ros']
+[4.362s] Level 1:colcon.colcon_core.package_identification:_identify(/home/ibrahim/ros2_ws/src/mobile_robot) by extension 'ros'
+[4.417s] DEBUG:colcon.colcon_core.package_identification:Package '/home/ibrahim/ros2_ws/src/mobile_robot' with type 'ros.ament_python' and name 'mobile_robot'
+[4.417s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults

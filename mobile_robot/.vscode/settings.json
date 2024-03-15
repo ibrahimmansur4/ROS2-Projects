@@ -1,0 +1,35 @@
+{
+    "ros.distro": "humble",
+    "python.autoComplete.extraPaths": [
+        "/home/ibrahim/ros2_ws/install/yaminah/lib/python3.10/site-packages",
+        "/home/ibrahim/ros2_ws/install/velocity_package/lib/python3.10/site-packages",
+        "/home/ibrahim/ros2_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/ibrahim/ros2_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/ibrahim/ros2_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/home/ibrahim/ros2_ws/install/topic_basics/lib/python3.10/site-packages",
+        "/home/ibrahim/ros2_ws/install/py_pkg/lib/python3.10/site-packages",
+        "/home/ibrahim/ros2_ws/install/mobile_robot/lib/python3.10/site-packages",
+        "/home/ibrahim/ros2_ws/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages",
+        "/home/ibrahim/ros2_ws/install/drone_bot/lib/python3.10/site-packages",
+        "/home/ibrahim/install/yaminah/lib/python3.10/site-packages",
+        "/home/ibrahim/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ibrahim/ros2_ws/install/yaminah/lib/python3.10/site-packages",
+        "/home/ibrahim/ros2_ws/install/velocity_package/lib/python3.10/site-packages",
+        "/home/ibrahim/ros2_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/ibrahim/ros2_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/ibrahim/ros2_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/home/ibrahim/ros2_ws/install/topic_basics/lib/python3.10/site-packages",
+        "/home/ibrahim/ros2_ws/install/py_pkg/lib/python3.10/site-packages",
+        "/home/ibrahim/ros2_ws/install/mobile_robot/lib/python3.10/site-packages",
+        "/home/ibrahim/ros2_ws/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages",
+        "/home/ibrahim/ros2_ws/install/drone_bot/lib/python3.10/site-packages",
+        "/home/ibrahim/install/yaminah/lib/python3.10/site-packages",
+        "/home/ibrahim/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
