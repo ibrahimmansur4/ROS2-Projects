@@ -1,0 +1,13 @@
+material face/Image
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture IMG_7003.jpg
+            }
+        }
+    }
+}
