@@ -1,0 +1,11 @@
+obstacle_layer:
+  enabled: true
+  footprint_clearing_enabled: true
+inflation_layer:
+  enabled: true
+
+resolution: 0.05
+robot_radius: 0.2
+plugins:
+  - nav2_costmap_2d::ObstacleLayer
+  - nav2_costmap_2d::InflationLayer
