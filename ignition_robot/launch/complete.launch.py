@@ -68,7 +68,8 @@ def generate_launch_description():
 		   '/odom@nav_msgs/msg/Odometry@gz.msgs.Odometry',
 		   '/camera/image_raw@sensor_msgs/msg/Image@gz.msgs.Image',
 	           '/camera/camera_info@sensor_msgs/msg/CameraInfo@gz.msgs.CameraInfo',
-	           '/scan@sensor_msgs/msg/LaserScan@gz.msgs.LaserScan'],
+	           '/scan@sensor_msgs/msg/LaserScan@gz.msgs.LaserScan',
+	           '/joint_states@sensor_msgs/msg/JointState@gz.msgs.Model'],
 	output='screen'
     )
     # RViz
